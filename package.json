@@ -21,7 +21,7 @@
     "npm": "8.4.1"
   },
   "dependencies": {
-    "is-odd": "3.0.0"
+    "is-odd": "3.0.1"
   },
   "overrides": {
     "is-number": "5.0.0"
