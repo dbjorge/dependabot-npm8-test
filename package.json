@@ -1,0 +1,23 @@
+{
+  "name": "dependabot-npm8-test",
+  "version": "0.0.1",
+  "description": "ad-hoc testing of Dependabot support for npm v8 repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbjorge/dependabot-npm8-test.git"
+  },
+  "author": "Microsoft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbjorge/dependabot-npm8-test/issues"
+  },
+  "homepage": "https://github.com/dbjorge/dependabot-npm8-test#readme",
+  "volta": {
+    "node": "16.13.2",
+    "npm": "8.4.1"
+  }
+}
