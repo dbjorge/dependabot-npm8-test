@@ -19,5 +19,11 @@
   "volta": {
     "node": "16.13.2",
     "npm": "8.4.1"
+  },
+  "dependencies": {
+    "is-odd": "3.0.0"
+  },
+  "overrides": {
+    "is-number": "5.0.0"
   }
 }
